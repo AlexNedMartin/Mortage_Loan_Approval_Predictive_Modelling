@@ -2,18 +2,18 @@
 
 This is my capstone project completed at Digital Futures.
 
-<b>### Project Aims:</b>
+### Project Aims:
 
 Produce a mortgage loan predictor app that uses a machine learning algorithm to predict mortgage approval chances. 
 
-<b>### The Project consisted of:</b>
+### The Project consisted of:
   * Data collection
   * Data Wrangling
   * Exploratory Data Analysis
   * Machine Learning
   * Prediction App
 
-<b>### Technologies used:</b>
+### Technologies used:
   * Programming Languages: Python
   * Libraries: Pandas, NumPy, Matplotlib, Seaborn, SciKitLearn, LightGBM
   * Tools: JupyterLabs, GoogleColab
