@@ -2,7 +2,7 @@
 
 This is my capstone project completed at Digital Futures.
 
-Project Aims:
+<b>Project Aims:</b>
 
 Produce a mortgage loan predictor app that uses a machine learning algorithm to predict mortgage approval chances. 
 
