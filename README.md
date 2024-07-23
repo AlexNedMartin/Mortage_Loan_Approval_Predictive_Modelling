@@ -1,4 +1,4 @@
-# Mortage Loan Approval- Predictive Modelling Project
+# Mortage Loan Approval - Predictive Modelling Project
 
 This is my capstone project completed at Digital Futures.
 
@@ -14,6 +14,8 @@ The Project consisted of:
 
 Technologies used:
   * Programming Languages: Python
-  * Libraries: Pandas, NumPy, Matplotlib, Seaborn, SciKitLearn, 
+  * Libraries: Pandas, NumPy, Matplotlib, Seaborn, SciKitLearn, LightGBM
+  * Tools: JupyterLabs, GoogleColab
+  * Data Source: https://ffiec.cfpb.gov/data-browser/data/2023?category=nationwide&actions_taken=
 
   
